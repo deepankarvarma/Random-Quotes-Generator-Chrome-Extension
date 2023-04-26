@@ -25,3 +25,7 @@ To customize the behavior of the extension, you can modify the code in the `popu
 ## Contributing
 
 If you would like to contribute to the extension, feel free to fork the repository and submit a pull request. We welcome any suggestions or improvements!
+
+## Demo
+
+<img src="https://github.com/deepankarvarma/Random-Quotes-Generator-Chrome-Extension/blob/master/demo.png">
